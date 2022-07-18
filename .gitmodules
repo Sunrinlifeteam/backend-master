@@ -3,4 +3,4 @@
 	url = https://github.com/Sunrinlifeteam/backend-gateway
 [submodule "packages/hello"]
 	path = packages/hello
-	url = https://github.com/rmagur1203/backend-module-hello
+	url = https://github.com/Sunrinlifeteam/backend-module-hello
