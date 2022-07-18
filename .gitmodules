@@ -4,3 +4,6 @@
 [submodule "packages/hello"]
 	path = packages/hello
 	url = https://github.com/Sunrinlifeteam/backend-module-hello
+[submodule "packages/user"]
+	path = packages/user
+	url = https://github.com/Sunrinlifeteam/backend-module-user
