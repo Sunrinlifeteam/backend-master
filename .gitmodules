@@ -7,9 +7,12 @@
 [submodule "packages/user"]
 	path = packages/user
 	url = https://github.com/Sunrinlifeteam/backend-module-user
-[submodule "package/auth"]
-	path = packages/auth
-	url = https://github.com/Sunrinlifeteam/backend-module-auth
 [submodule "packages/upload"]
 	path = packages/upload
 	url = https://github.com/Sunrinlifeteam/backend-module-upload
+[submodule "packages/neis"]
+	path = packages/neis
+	url = https://github.com/Sunrinlifeteam/backend-module-neis
+[submodule "packages/redis"]
+	path = packages/redis
+	url = https://github.com/Sunrinlifeteam/backend-module-redis
