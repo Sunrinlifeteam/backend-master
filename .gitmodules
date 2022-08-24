@@ -16,3 +16,6 @@
 [submodule "packages/redis"]
 	path = packages/redis
 	url = https://github.com/Sunrinlifeteam/backend-module-redis
+[submodule "packages/auth"]
+	path = packages/auth
+	url = https://github.com/Sunrinlifeteam/backend-module-auth
